@@ -25,14 +25,6 @@ Passionate about designing beautiful and functional experiences — from dynamic
 
 ---
 
-## 📈 GitHub Stats
-
-![Pranish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranishkarki7&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranishkarki7&layout=compact&theme=radical)
-
----
-
 ### ✨ Fun Fact
 
 > "Robots + Code = Magic. And I’m here for it."
