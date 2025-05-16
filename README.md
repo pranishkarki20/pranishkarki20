@@ -1,56 +1,40 @@
+# Hi there 👋 I'm [Your Name]
 
+🌟 Passionate about building cool stuff with code  
+💡 Always learning, always curious  
+🚀 Exploring the world of development one line at a time  
 
+---
 
+## 🛠️ Tech Stack
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
+---
 
-<h1 align="center">Hi 👋, I'm Pranish karki</h1>
-<h3 align="center">I am passionate about Robotics , programming</h3>
+## 📊 GitHub Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranishkarki20&label=Profile%20views&color=0e75b6&style=flat" alt="pranishkarki20" /> </p>
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranishkarki20" alt="pranishkarki20" /></a> </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-- 🌱 I’m currently learning **ardino uno ,python**
+---
 
-- 👨‍💻 All of my projects are available at [https://pranishkarki7.netlify.app/](https://pranishkarki7.netlify.app/)
+## 🔗 Let's Connect
 
-- 📫 How to reach me **praniskkarki20@gmail.com**
+- 🌐 [yourwebsite.com](https://pranishkarki7.netlify.app/)
+- 📫 Email: Praniskkarki20@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/mr-karki?)
+---
 
-- ⚡ Fun fact **1+1=3**
+### ✨ Fun Fact
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+> "Code is like humor. When you have to explain it, it’s bad."
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+🎯 Keep coding, keep creating. All the best!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranishkarki20&show_icons=true&locale=en&layout=compact" alt="pranishkarki20" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranishkarki20&show_icons=true&locale=en" alt="pranishkarki20" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-GitHub Profile github profile markdown generator logo
-README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
