@@ -1,40 +1,40 @@
-# Hi there 👋 I'm [Your Name]
+# 👋 Hello, I'm Pranish Karki
 
-🌟 Passionate about building cool stuff with code  
-💡 Always learning, always curious  
-🚀 Exploring the world of development one line at a time  
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+🎨 Frontend Enthusiast | 🎬 Creative Editor | 💻 Lifelong Learner  
+Passionate about designing beautiful and functional web experiences. Mixing code with creativity is my thing!
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Skills & Tools
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Arduino Uno](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🔗 Let's Connect
+## 🌐 Connect with Me
 
-- 🌐 [yourwebsite.com](https://pranishkarki7.netlify.app/)
-- 📫 Email: Praniskkarki20@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/mr-karki?)
+- 🌐 [Portfolio Website](https://pranishkarki7.netlify.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/mr-karki)
+- 📫 Email: praniskkarki20@gmai.com
+
+---
+
+## 📈 GitHub Stats
+
+![Pranish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranishkarki7&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranishkarki7&layout=compact&theme=radical)
+
 ---
 
 ### ✨ Fun Fact
 
 > "Code is like humor. When you have to explain it, it’s bad."
 
-🎯 Keep coding, keep creating. All the best!
-
+🎯 Keep creating, keep growing. All the best!
