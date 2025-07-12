@@ -30,6 +30,7 @@ Passionate about designing beautiful and functional experiences — from dynamic
 > "Robots + Code = Magic. And I’m here for it."
 
 🎯 Keep creating, keep exploring. All the best!
+## 🔥 Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=pranishkarki20&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ## 📊 GitHub Stats
 
