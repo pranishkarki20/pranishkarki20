@@ -33,4 +33,6 @@ Passionate about designing beautiful and functional experiences — from dynamic
 ## 🟩 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pranishkarki20&theme=dark&hide_border=true)](https://git.io/streak-stats)
+## 📊 GitHub Stats
 
+![Pranish's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranishkarki20&show_icons=true&theme=dark&hide_border=true)
