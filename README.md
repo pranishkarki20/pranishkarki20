@@ -21,7 +21,7 @@ Passionate about designing beautiful and functional experiences — from dynamic
 ## 🌐 Connect with Me
 
 - 🌐 [Portfolio Website](https://pranishkarki7.netlify.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/mr-karki)
+- 💼 [LinkedIn][(https://www.linkedin.com/in/pranish-karki-7aa468374/)
 - 📫 Email: praniskkarki20@gmail.com
 
 ---
