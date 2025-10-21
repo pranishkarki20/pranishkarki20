@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pranish Karki
 
-🎨 Frontend Enthusiast | 🤖 Robotics Explorer | 🎬 Creative Editor  
+🔧 Technology Enthusiast | 🤖 Robotics Explorer | 📱App Developer
 Passionate about designing beautiful and functional experiences — from dynamic websites to interactive robots. Mixing code, creativity, and circuits is what I love!
 
 ---
