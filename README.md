@@ -1,86 +1,125 @@
-# 👋 Hi, I'm Pranish Karki
+<!-- 3D HEADER -->
 
-🚀 **Frontend Developer | React Learner | Firebase Builder | Robotics Enthusiast**
+<h1 align="center">
+  👋 Hey, I'm Pranish Karki
+</h1>
 
-I build scalable web applications and interactive systems by combining **modern frontend engineering + backend services + hardware logic**.
+<h3 align="center">
+  🚀 Frontend Developer | 🤖 Robotics Explorer | 🔥 Firebase Builder
+</h3>
 
-Currently focused on:
-
-* ⚛️ React.js (E-commerce & UI systems)
-* 🔥 Firebase (Auth, Firestore, Hosting)
-* 🌐 Building real-world client projects
-* 🤖 Robotics + embedded systems (Arduino)
-
----
-
-## 🧠 Tech Stack
-
-### 🚀 Frontend
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
-### ⚙️ Programming
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
-
-### 🔥 Backend & Tools
-
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Apps;React+%2B+Firebase+Developer;Robotics+%2B+Code+Enthusiast" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🧊 About Me
 
-### 🛒 E-commerce Web App (React + Firebase)
+💡 I design and build **interactive digital systems** combining:
 
-* Product listing, cart system, authentication
-* Real-time database integration
-* Responsive UI design
+* 🌐 Frontend Engineering (React)
+* 🔥 Backend-as-a-Service (Firebase)
+* 🤖 Hardware Logic (Arduino)
+
+⚡ I focus on **real-world projects + freelancing-ready skills**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend / Services
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,dart" />
+</p>
+
+### 🧰 Tools & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=git,arduino" />
+</p>
+
+---
+
+## 🚀 Featured Projects 
+
+### 🛒 E-Commerce App
+
+> React + Firebase + Cart System
+> ✔ Authentication
+> ✔ Product UI
+> ✔ Real-time database
+
+---
 
 ### 🤖 Robotics Projects
 
-* Arduino-based automation systems
-* Sensor integration + real-world interaction
+> Arduino + Sensors
+> ✔ Automation systems
+> ✔ Hardware + software integration
 
-### 🌐 Portfolio Website
+---
+
+### 🌐 Portfolio
 
 🔗 https://pranishkarki7.netlify.app/
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Pranish's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranishkarki20\&show_icons=true\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranishkarki20show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranishkarki20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranishkarki20\&layout=compact\&theme=radical)
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## 🌍 Connect With Me
 
-* 🌐 Portfolio: https://pranishkarki7.netlify.app/
-* 💼 LinkedIn: https://www.linkedin.com/in/pranish-karki-7aa468374/
-* 📫 Email: [praniskkarki20@gmail.com](mailto:praniskkarki20@gmail.com)
+<p align="center">
+  <a href="https://pranishkarki7.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pranish-karki-7aa468374/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:praniskkarki20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ What I'm Working On
+## ⚡ Current Focus
 
-* Building a full-stack **React e-commerce system**
-* Learning advanced **JavaScript concepts (Promises, Async/Await)**
-* Exploring **real client projects & freelancing**
-
----
-
-## ✨ Philosophy
-
-> "Build → Break → Learn → Repeat"
+* ⚛️ Building a **React E-commerce system**
+* 🔥 Learning **Async JS (Promises, APIs)**
+* 💼 Working towards **freelance-ready projects**
 
 ---
 
-⭐️ *If you like my work, consider starring my repositories!*
+## 🧠 Philosophy
+
+> 🚀 Build things that actually work in the real world
+
+---
+
+⭐ *If you like my work, give a star — it helps a lot!*
