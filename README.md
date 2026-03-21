@@ -95,7 +95,7 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://pranishkarki7.netlify.app/">
+  <a href="https://pranishkarki.com.np/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/pranish-karki-7aa468374/">
