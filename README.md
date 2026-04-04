@@ -50,39 +50,14 @@
 
 ---
 
-## 🚀 Featured Projects 
 
-### 🛒 E-Commerce App
-
-> React + Firebase + Cart System
-> ✔ Authentication
-> ✔ Product UI
-> ✔ Real-time database
-
----
-
-### 🤖 Robotics Projects
-
-> Arduino + Sensors
-> ✔ Automation systems
-> ✔ Hardware + software integration
-
----
 
 ### 🌐 Portfolio
 
-🔗 https://pranishkarki7.netlify.app/
+🔗 https://pranishkarki7.com.np/
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranishkarki20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranishkarki20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
-</p>
-
----
 
 ## 🔥 Contribution Graph
 
@@ -108,17 +83,11 @@
 
 ---
 
-## ⚡ Current Focus
 
-* ⚛️ Building a **React E-commerce system**
-* 🔥 Learning **Async JS (Promises, APIs)**
-* 💼 Working towards **freelance-ready projects**
-
----
 
 ## 🧠 Philosophy
 
-> 🚀 Build things that actually work in the real world
+> To learn you just have to try it
 
 ---
 
