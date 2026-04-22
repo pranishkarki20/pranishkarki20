@@ -1,5 +1,5 @@
 <!-- 3D HEADER -->
-
+<img src="https://komarev.com/ghpvc/?username=pranishkarki20&label=Profile+Views&color=blueviolet" />
 <h1 align="center">
   👋 Hey, I'm Pranish Karki
 </h1>
@@ -49,7 +49,7 @@
 </p>
 
 ---
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranishkarki20&layout=compact&theme=tokyonight" />
 
 
 ### 🌐 Portfolio
@@ -82,12 +82,16 @@
 </p>
 
 ---
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranishkarki20&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ## 🧠 Philosophy
 
-> To learn you just have to try it
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ---
 
