@@ -36,11 +36,12 @@
 ### ⚙️ Backend / Services
 <p>
   <img src="https://skillicons.dev/icons?i=firebase" />
+   <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,dart" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java" />
 </p>
 
 ### 🧰 Tools & Hardware
