@@ -39,6 +39,10 @@
    <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
+## Database
+<p>
+   <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 ### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java" />
