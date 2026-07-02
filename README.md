@@ -17,7 +17,6 @@
 └─$ cat about.txt
 
 Name      : Pranish Karki
-Role      : Frontend Developer
 Location  : Nepal 🇳🇵
 Status    : Building in public 🚀
 
@@ -25,7 +24,7 @@ Stack     : React · Firebase · Node.js · MongoDB Atlas
 Hardware  : Arduino · C++ · Embedded Systems
 Focus     : Real-world projects + Freelancing
 
-Learning  --> MERN Stack + Advanced Firebase
+Learning  --> MERN Stack 
 Goal      --> Launch products that matter 🌍
 
 ┌──(pranish㉿nepal)-[~]
