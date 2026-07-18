@@ -124,7 +124,7 @@ Goal :
 
 <div align="center">
 
-<a href="https://pranishkarki7.com.np">
+<a href="https://pranishkarki.com.np">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
