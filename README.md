@@ -36,7 +36,7 @@ Goal :
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,websocket" />
 </p>
 
 ### Database
